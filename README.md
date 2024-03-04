@@ -13,7 +13,7 @@ The Entire project is worked in the pycharm environment. Before using this proje
 - Pycharm
 - Roboflow
 - Google Colab
-- YOLO Pre-trained Weights and Configurations (download from YOLO website)
+- YOLOv8
 - Custom Dataset (if you want to train a custom YOLO model)
 - GPU (for high quality results)
 
